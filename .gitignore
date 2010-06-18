@@ -1,0 +1,10 @@
+log/*.log
+tmp/*
+tmp/**/*
+doc/api
+doc/app
+doc/notes
+db/*.sqlite3
+*.swp
+*~
+.DS_Store
